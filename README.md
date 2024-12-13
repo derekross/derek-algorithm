@@ -1,4 +1,4 @@
-** The Derek Algorithm is 100% open source and under the MIT license.**
+**The Derek Algorithm is 100% open source and under the MIT license.**
 
 ---
 
